@@ -22,7 +22,7 @@ export const navLinks = [
   {
     id: 5,
     name: 'Resume',
-    href: 'public/assets/ReactJs.pdf', 
+    href: '/assets/ReactJs.pdf', 
   },
 
 ];
